@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aspnetcore\\SistemInventoriAtk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\barangkeluarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\barangkeluarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\barangmasukcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\barangmasukcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\pengadaanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\pengadaanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\permintaanbarangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\permintaanbarangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\barangkeluar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\barangkeluar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\barangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\barangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\pengadaanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\pengadaanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\permintaanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\permintaanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\services\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\services\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\models\\dtos\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\models\\dtos\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|c:\\aspnetcore\\sisteminventoriatk\\sisteminventoriatk\\sisteminventoriatk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{452CD54F-6B00-4526-B6A0-676A067A8A15}|SistemInventoriAtk\\SistemInventoriAtk.csproj|solutionrelative:sisteminventoriatk\\sisteminventoriatk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarangKeluarController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\BarangKeluarController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\BarangKeluarController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\BarangKeluarController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\BarangKeluarController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:56:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarangController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\BarangController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\BarangController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\BarangController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\BarangController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:19:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:51:20.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T05:35:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SistemInventoriAtk\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T04:46:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\appsettings.json",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\appsettings.json",
+              "RelativeToolTip": "SistemInventoriAtk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T03:29:40.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Program.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Program.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Program.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:45:07.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\User.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\User.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\User.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:44:58.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarangMasukController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\BarangMasukController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\BarangMasukController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\BarangMasukController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\BarangMasukController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:02:53.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA6wHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:36:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PengadaanBarang.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\PengadaanBarang.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\PengadaanBarang.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\PengadaanBarang.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\PengadaanBarang.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:26:13.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermintaanBarangController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\PermintaanBarangController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\PermintaanBarangController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\PermintaanBarangController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\PermintaanBarangController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:44:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:24:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:25:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:07:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\Barang.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\Barang.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\Barang.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\Barang.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:47:07.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BarangKeluar.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\BarangKeluar.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\BarangKeluar.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\BarangKeluar.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\BarangKeluar.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:49:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BarangMasuk.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\BarangMasuk.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\BarangMasuk.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\BarangMasuk.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\BarangMasuk.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:48:21.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\Payment.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\Payment.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\Payment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:47:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PengadaanBarang.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\PengadaanBarang.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\PengadaanBarang.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\PengadaanBarang.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\PengadaanBarang.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:50:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PermintaanBarang.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\PermintaanBarang.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\PermintaanBarang.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\PermintaanBarang.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\PermintaanBarang.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:48:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\Supplier.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\Supplier.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:45:15.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Services\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Services\\AuthRequest.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Services\\AuthRequest.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Services\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:38:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Services\\AuthService.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Services\\AuthService.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Services\\AuthService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:45:19.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Services\\IAuthService.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T03:41:46.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\DTOs\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\Models\\DTOs\\CreateUserRequest.cs",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\Models\\DTOs\\CreateUserRequest.cs",
+              "RelativeToolTip": "SistemInventoriAtk\\Models\\DTOs\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T05:33:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SistemInventoriAtk.csproj",
+              "DocumentMoniker": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\SistemInventoriAtk.csproj",
+              "RelativeDocumentMoniker": "SistemInventoriAtk\\SistemInventoriAtk.csproj",
+              "ToolTip": "C:\\aspnetcore\\SistemInventoriAtk\\SistemInventoriAtk\\SistemInventoriAtk.csproj",
+              "RelativeToolTip": "SistemInventoriAtk\\SistemInventoriAtk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T04:15:57.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
